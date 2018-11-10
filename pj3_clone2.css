@@ -60,6 +60,8 @@ h1, h2, h3, h4, h5, h6, p, img{
 
 .grid-header__subtitle {
     align-self: end;
+    color: gray(85);
+    font-weight: 400;
 }
 
 .grid-header__subtitle span{
