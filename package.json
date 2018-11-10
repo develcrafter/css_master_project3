@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/develcrafter/css_master_project3#readme",
   "scripts": {
-    "start": "parcel pj3_clone1.html"
+    "start": "parcel pj3_clone2.html"
   },
   "dependencies": {
     "postcss-preset-env": "^6.4.0"
